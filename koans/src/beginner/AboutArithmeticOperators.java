@@ -23,7 +23,7 @@ public class AboutArithmeticOperators {
     public void notSoSimpleOperations() {
         assertEquals(1 / 2, 0);
         assertEquals(3 / 2, 1);
-        assertEquals(1 % 2, 0);
+        assertEquals(1 % 2, 1);
         assertEquals(3 % 2, 1);
     }
 
